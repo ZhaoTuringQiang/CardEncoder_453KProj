@@ -1,0 +1,9 @@
+D:\work\住哲资料\门锁和身份证\_极速对接\workspace\CardEncoder_453K_csharp\CardEncoder_453KProj\CardEncoder_453KProj\bin\Debug\CardEncoder_453KProj.dll
+D:\work\住哲资料\门锁和身份证\_极速对接\workspace\CardEncoder_453K_csharp\CardEncoder_453KProj\CardEncoder_453KProj\bin\Debug\CardEncoder_453KProj.pdb
+D:\work\住哲资料\门锁和身份证\_极速对接\workspace\CardEncoder_453K_csharp\CardEncoder_453KProj\CardEncoder_453KProj\bin\Debug\CardEncoder_453KProj.tlb
+D:\work\住哲资料\门锁和身份证\_极速对接\workspace\CardEncoder_453K_csharp\CardEncoder_453KProj\CardEncoder_453KProj\obj\Debug\CardEncoder_453KProj.dll
+D:\work\住哲资料\门锁和身份证\_极速对接\workspace\CardEncoder_453K_csharp\CardEncoder_453KProj\CardEncoder_453KProj\obj\Debug\CardEncoder_453KProj.pdb
+D:\work\住哲资料\门锁和身份证\_极速对接\workspace\CardEncoder_453K_csharp\CardEncoder_453KProj\CardEncoder_453KProj\bin\Debug\Newtonsoft.Json.dll
+D:\work\住哲资料\门锁和身份证\_极速对接\workspace\CardEncoder_453K_csharp\CardEncoder_453KProj\CardEncoder_453KProj\bin\Debug\Newtonsoft.Json.pdb
+D:\work\住哲资料\门锁和身份证\_极速对接\workspace\CardEncoder_453K_csharp\CardEncoder_453KProj\CardEncoder_453KProj\bin\Debug\Newtonsoft.Json.xml
+D:\work\住哲资料\门锁和身份证\_极速对接\workspace\CardEncoder_453K_csharp\CardEncoder_453KProj\CardEncoder_453KProj\obj\Debug\CardEncoder_453KProj.csprojResolveAssemblyReference.cache

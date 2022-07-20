@@ -1,0 +1,5 @@
+1）vb6不能调用64位com组件，因此C#com组件要编写成32位的；
+2）C#com组件注册要用Regasm.exe,且要在后面加/codebase；
+3）C#com组件和Regasm.exe   .NET版本要对应；
+4）C#com组件如果是32位，则需要用32位的Regasm注册，64位同一道理；
+5）如果C#com组件引用了第三方dll,此时，C#com组件要放在PMSPLUS.exe所在的路径下。
